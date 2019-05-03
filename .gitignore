@@ -2,3 +2,5 @@
 .mvn
 .project
 .settings
+.vscode
+target/
